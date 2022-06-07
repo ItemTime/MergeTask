@@ -1,0 +1,15 @@
+X:\VSC\cs\MergeTask\MergeTask.Test\bin\Debug\net6.0\MergeTask.Test.deps.json
+X:\VSC\cs\MergeTask\MergeTask.Test\bin\Debug\net6.0\MergeTask.Test.dll
+X:\VSC\cs\MergeTask\MergeTask.Test\bin\Debug\net6.0\ref\MergeTask.Test.dll
+X:\VSC\cs\MergeTask\MergeTask.Test\bin\Debug\net6.0\MergeTask.Test.pdb
+X:\VSC\cs\MergeTask\MergeTask.Test\bin\Debug\net6.0\MergeTask.Project.dll
+X:\VSC\cs\MergeTask\MergeTask.Test\bin\Debug\net6.0\MergeTask.Project.pdb
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.csproj.AssemblyReference.cache
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.GeneratedMSBuildEditorConfig.editorconfig
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.AssemblyInfoInputs.cache
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.AssemblyInfo.cs
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.csproj.CoreCompileInputs.cache
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.csproj.CopyComplete
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.dll
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\ref\MergeTask.Test.dll
+X:\VSC\cs\MergeTask\MergeTask.Test\obj\Debug\net6.0\MergeTask.Test.pdb

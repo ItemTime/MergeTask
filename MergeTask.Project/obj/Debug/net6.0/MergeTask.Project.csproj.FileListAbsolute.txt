@@ -1,0 +1,12 @@
+X:\VSC\cs\MergeTask\MergeTask.Project\bin\Debug\net6.0\MergeTask.Project.deps.json
+X:\VSC\cs\MergeTask\MergeTask.Project\bin\Debug\net6.0\MergeTask.Project.dll
+X:\VSC\cs\MergeTask\MergeTask.Project\bin\Debug\net6.0\ref\MergeTask.Project.dll
+X:\VSC\cs\MergeTask\MergeTask.Project\bin\Debug\net6.0\MergeTask.Project.pdb
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.csproj.AssemblyReference.cache
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.GeneratedMSBuildEditorConfig.editorconfig
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.AssemblyInfoInputs.cache
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.AssemblyInfo.cs
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.csproj.CoreCompileInputs.cache
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.dll
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\ref\MergeTask.Project.dll
+X:\VSC\cs\MergeTask\MergeTask.Project\obj\Debug\net6.0\MergeTask.Project.pdb

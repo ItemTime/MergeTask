@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MergeTask.Project/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MergeTask.Project.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MergeTask.Project.dll": {}
+        }
+      },
+      "MergeTask.Test/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MergeTask.Project": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MergeTask.Test.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MergeTask.Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MergeTask.Project/1.0.0": {
+      "type": "project",
+      "path": "../MergeTask.Project/MergeTask.Project.csproj",
+      "msbuildProject": "../MergeTask.Project/MergeTask.Project.csproj"
+    },
+    "MergeTask.Test/1.0.0": {
+      "type": "project",
+      "path": "../MergeTask.Test/MergeTask.Test.csproj",
+      "msbuildProject": "../MergeTask.Test/MergeTask.Test.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MergeTask.Project >= 1.0.0",
+      "MergeTask.Test >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joslo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "X:\\VSC\\cs\\MergeTask\\MergeTask.ConsoleProgram\\MergeTask.ConsoleProgram.csproj",
+      "projectName": "MergeTask.ConsoleProgram",
+      "projectPath": "X:\\VSC\\cs\\MergeTask\\MergeTask.ConsoleProgram\\MergeTask.ConsoleProgram.csproj",
+      "packagesPath": "C:\\Users\\joslo\\.nuget\\packages\\",
+      "outputPath": "X:\\VSC\\cs\\MergeTask\\MergeTask.ConsoleProgram\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\joslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "X:\\VSC\\cs\\MergeTask\\MergeTask.Project\\MergeTask.Project.csproj": {
+              "projectPath": "X:\\VSC\\cs\\MergeTask\\MergeTask.Project\\MergeTask.Project.csproj"
+            },
+            "X:\\VSC\\cs\\MergeTask\\MergeTask.Test\\MergeTask.Test.csproj": {
+              "projectPath": "X:\\VSC\\cs\\MergeTask\\MergeTask.Test\\MergeTask.Test.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

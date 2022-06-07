@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MergeTask.ConsoleProgram/1.0.0": {
+        "dependencies": {
+          "MergeTask.Project": "1.0.0",
+          "MergeTask.Test": "1.0.0"
+        },
+        "runtime": {
+          "MergeTask.ConsoleProgram.dll": {}
+        }
+      },
+      "MergeTask.Project/1.0.0": {
+        "runtime": {
+          "MergeTask.Project.dll": {}
+        }
+      },
+      "MergeTask.Test/1.0.0": {
+        "dependencies": {
+          "MergeTask.Project": "1.0.0"
+        },
+        "runtime": {
+          "MergeTask.Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MergeTask.ConsoleProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MergeTask.Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MergeTask.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
